@@ -1,0 +1,6 @@
+@NetiStock_HostAddress = http://localhost:5120
+
+GET {{NetiStock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
